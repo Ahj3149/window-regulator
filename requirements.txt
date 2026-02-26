@@ -1,0 +1,7 @@
+nicegui
+pandas
+numpy
+scipy
+matplotlib
+reliability
+openpyxl
